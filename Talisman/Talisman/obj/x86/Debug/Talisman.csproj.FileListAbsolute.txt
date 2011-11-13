@@ -1,0 +1,6 @@
+C:\Source\Talisman\Talisman\Talisman\bin\x86\Debug\Talisman.exe
+C:\Source\Talisman\Talisman\Talisman\bin\x86\Debug\Talisman.pdb
+C:\Source\Talisman\Talisman\Talisman\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Source\Talisman\Talisman\Talisman\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Source\Talisman\Talisman\Talisman\obj\x86\Debug\Talisman.exe
+C:\Source\Talisman\Talisman\Talisman\obj\x86\Debug\Talisman.pdb

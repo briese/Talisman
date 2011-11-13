@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talisman", "Talisman\Talisman\Talisman.csproj", "{B07D9227-5484-44DE-BFA1-BCC6ED280B98}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TalismanContent", "Talisman\TalismanContent\TalismanContent.contentproj", "{9C53505E-E08A-443B-896C-73EA2ADC576C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B07D9227-5484-44DE-BFA1-BCC6ED280B98}.Debug|x86.ActiveCfg = Debug|x86
+		{B07D9227-5484-44DE-BFA1-BCC6ED280B98}.Debug|x86.Build.0 = Debug|x86
+		{B07D9227-5484-44DE-BFA1-BCC6ED280B98}.Release|x86.ActiveCfg = Release|x86
+		{B07D9227-5484-44DE-BFA1-BCC6ED280B98}.Release|x86.Build.0 = Release|x86
+		{9C53505E-E08A-443B-896C-73EA2ADC576C}.Debug|x86.ActiveCfg = Debug|x86
+		{9C53505E-E08A-443B-896C-73EA2ADC576C}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
